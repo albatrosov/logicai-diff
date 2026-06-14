@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Automatically renders every code change as a logicAI-diff — a side-by-side Before/After HTML report that shows only logical, behaviour-level changes (not raw code hunks), grouped in causal order and with clickable file references.",
   "author": {
-    "name": "Oleksandr",
-    "url": "https://github.com/your-username"
+    "name": "Oleksandr Lebedev",
+    "url": "https://github.com/albatrosov"
   },
   "keywords": ["diff", "code-review", "changelog", "git", "developer-tools"],
   "skills": [
